@@ -1,6 +1,6 @@
-# Scrimba Frontend Career Path - (Momentum Chrome Extension - Module 07)
+# Scrimba Frontend Career Path - (Advanced React - Module 12)
 
-This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of War)](https://scrimba.com/learn/frontend).
+This is a solution to the [Scrimba Frontend Career Path - (Module12-AdvancedReact/React Hooks)](https://scrimba.com/learn/frontend).
 
 ## Table of contents
 
@@ -21,21 +21,21 @@ This is a solution to the [Scrimba Frontend Career Path - (Module07-APIs/Game of
 
 ### The challenge
 
-Clone of the famous chrome extension "momentum"
+Make a type fast/word count game
 
 After this Challenge I should be able to Code/Understand:
 
-- Clients/Servers
-- Requests/Response
-- JSON
-- fetch/.then()
-- Requests(methods, headers, body, URL)
-- REST API Design (params, query)
-- Async Javascript (callbacks, promises, async/await)
+- React Hooks
+- React Custom Hooks
+- useRef
+- Higher Order Components
+- useContext
 
 ### Screenshot
 
-![](./imagem.png)
+![](./start.png)
+![](./mid.png)
+![](./end.png)
 
 ### Links
 
