@@ -37,5 +37,45 @@ After this Challenge I should be able to Code/Understand:
 ![](./mid.png)
 ![](./end.png)
 
+### Links
+
+- Solution Github URL: [https://github.com/Rod-Barbosa/word-count-game](https://github.com/Rod-Barbosa/word-count-game)
+- Live Site URL: [https://rodrigo-word-count-game.netlify.app/](https://rodrigo-word-count-game.netlify.app/)
+
+## My process
+
+### Built with
+
+- React
+- React Hooks
+- React Context API
+
+### What I learned
+
+The real lesson came from trying to upload this app into Netlify. The usual command was failing... After lots of trial and error...
+I caught a thread that went up 3 hours ago. 
+Saying that web pack just recently updated.... 4 hours ago... and it was causing the build error.
+So backtracking the update would "fix" it
+
+![](./issue.png)
+
+### Continued development
+
+Maybe a difficulty setting/timer setting would be nice. But that is for the future
+
+### Useful resources
+
+- [Fix Mini CSS Problem](https://github.com/facebook/create-react-app/issues/11930) - The github thread that helped me deploy it... 
+
+
+## Author
+
+- Website - [Rodrigo Portfolio](https://www.gelatodigital.com)
+- Frontend Mentor - [@Rod-Barbosa](https://www.frontendmentor.io/profile/Rod-Barbosa)
+- Github - [@Rod-Barbosa](https://github.com/Rod-Barbosa)
+
+## Acknowledgments
+
+
 
 
